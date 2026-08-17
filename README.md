@@ -1,8 +1,6 @@
 # TransitOps ![Hackathon Project](https://img.shields.io/badge/type-Hackathon%20Project-orange)
 ## Smart Transport Operations Platform
 
----
-
 > Digitize the entire lifecycle of a transport fleet — vehicles, drivers, dispatch, maintenance, fuel, and expenses — in one rule-driven system. No spreadsheets. No manual logbooks. No missed license renewals.
 
 ---
